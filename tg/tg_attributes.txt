@@ -1,0 +1,20 @@
+       1                                                     
+       2                                                           1811 2023
+       3 
+TG_T10i  Written=2025-08-30 16:27:25; 
+TG_T11i  Written=2025-08-30 15:59:02; 
+TG_T12r  Written=2025-06-26 14:27:41; 
+TG_T13i  Written=2025-06-27 13:02:01; 
+TG_T14r  Written=2025-08-10 23:56:32; 
+TG_T15r  Written=2025-06-27 14:48:10; 
+TG_T17r  Written=2025-07-05 22:13:49; 
+TG_T18i  Written=2025-08-30 15:34:44; 
+TG_T19r  Written=2025-06-27 13:55:56; 
+TG_T1r   Written=2025-08-30 14:56:25; 
+TG_T20i  Written=2025-06-27 14:16:29; 
+TG_T2i   Written=2025-08-29 02:15:27; 
+TG_T3r   Written=2025-08-11 00:33:04; 
+TG_T4i   Written=2025-06-27 12:42:53; 
+TG_T6i   Written=2025-09-05 03:40:24; 
+TG_T8i   Written=2025-08-30 14:47:36; 
+TG_T9r   Written=2025-06-27 14:28:57; 
